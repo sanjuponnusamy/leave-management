@@ -1,5 +1,5 @@
 live link
-https://github.com/sanjuponnusamy/leave-management.git
+https://leave-management-chi-one.vercel.app/
 
 # Leave Management System
 
