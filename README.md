@@ -1,3 +1,6 @@
+live link
+https://github.com/sanjuponnusamy/leave-management.git
+
 # Leave Management System
 
 Extracted and cleaned from Experiment 3, *Leave Management System*, in the uploaded FSWD lab manual (pages 88–104). Files are separated and formatting/syntax issues from the document extraction are cleaned up.
